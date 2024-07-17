@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153872364026",
+    "project_id": "login-register-firebase-d050d",
+    "storage_bucket": "login-register-firebase-d050d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153872364026:android:1cb3d550ffb4b61189f443",
+        "android_client_info": {
+          "package_name": "com.sslablk.loginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEE6djPwKjB1iWADNGNbV37uV-I5vgEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
